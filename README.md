@@ -9,9 +9,9 @@ The PersonalInformationManager repository contains a complete ASP.NET MVC / Enti
 
 The Technical Guide includes instructions on how to set up the code to run locally.  To view the code online simply click the link below.
 
-[Personal Information Manager Technical Guide] ()
-[Personal Information Manager User Guide] ()
-[Personal Information Manager Source Code](https://github.com/FrankStadler/PersonalInformationManager)
+- [Personal Information Manager Technical Guide] (https://github.com/FrankStadler/reference-code/blob/master/FS%20Personal%20Information%20Manager%20-%20Technical%20Guide.pdf)
+- [Personal Information Manager User Guide] (https://github.com/FrankStadler/reference-code/blob/master/FS%20Personal%20Information%20Manager%20-%20User%20Guide.pdf)
+- [Personal Information Manager Source Code](https://github.com/FrankStadler/PersonalInformationManager)
 
 
 
