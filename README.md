@@ -1,7 +1,7 @@
 # reference-code
 
 
-This GitHub repro provides sample / reference code developed by Frank Stadler.
+This GitHub repo provides sample / reference code developed by Frank Stadler.
 
 ## Personal Information Manager
 
