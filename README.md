@@ -16,4 +16,4 @@ The Technical Guide includes instructions on how to set up the code to run local
 
 
 
-Copyright 2016 Frank Stadler
+Copyright 2017 Frank Stadler
